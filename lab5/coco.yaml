@@ -1,0 +1,6 @@
+path: /content/
+train: train.txt
+val: val.txt
+
+names:
+  0: number
