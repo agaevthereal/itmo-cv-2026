@@ -2,5 +2,7 @@
 venv
 __pycache__
 data/
+*.pt
 */*dataset
 *.pth.tar
+/runs
